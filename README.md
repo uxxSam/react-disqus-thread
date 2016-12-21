@@ -1,5 +1,8 @@
 # react-disqus-thread
 
+## This is a fork
+Forked from the popular package by mzabriskie, but included a few changes for React 15.
+
 React Disqus thread component
 
 ## Installing
