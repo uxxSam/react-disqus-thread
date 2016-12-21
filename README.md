@@ -1,27 +1,19 @@
-# react-disqus-thread
+# react-disqus-comments
 
 ## This is a fork
-Forked from the popular package by mzabriskie, but included a few changes for React 15.
-
-React Disqus thread component
+Forked from the popular package by mzabriskie, but with a few fixes.
 
 ## Installing
 
 ```bash
-$ npm install react-disqus-thread
-# or
-$ bower install react-disqus-thread
+$ npm install react-disqus-comments
 ```
-
-## Demo
-
-http://mzabriskie.github.io/react-disqus-thread/example
 
 ## Example
 
 ```js
 var React = require('react');
-var ReactDisqusThread = require('react-disqus-thread');
+var ReactDisqusComments = require('react-disqus-comments');
 
 var App = createClass({
 	
@@ -31,7 +23,7 @@ var App = createClass({
 
 	render: function () {
 		return (
-			<ReactDisqusThread
+			<ReactDisqusComments
 				shortname="example"
 				identifier="something-unique-12345"
 				title="Example Thread"
