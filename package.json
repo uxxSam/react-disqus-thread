@@ -27,7 +27,7 @@
     "babel-cli": "^6.11.4",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
     "babel-preset-es2015": "^6.13.2",
-    "babel-preset-react": "^6.11.1",
+    "babel-preset-react": "^6.24.1",
     "rackt-cli": "^0.8.0",
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
