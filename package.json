@@ -20,7 +20,7 @@
   "license": "MIT",
   "homepage": "https://github.com/cyberhck/react-disqus-thread",
   "peerDependencies": {
-    "react": "^15.0.1",
+    "react": "^15.6.0",
     "react-dom": "^15.0.1"
   },
   "devDependencies": {
